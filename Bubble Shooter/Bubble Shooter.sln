@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{9543CD93-FF41-9F9D-E767-8550226C4652}") = "Bubble Shooter", "Assembly-CSharp.csproj", "{18E52461-E954-2D0B-8111-CD5DFBA73FBF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{18E52461-E954-2D0B-8111-CD5DFBA73FBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18E52461-E954-2D0B-8111-CD5DFBA73FBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18E52461-E954-2D0B-8111-CD5DFBA73FBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18E52461-E954-2D0B-8111-CD5DFBA73FBF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
